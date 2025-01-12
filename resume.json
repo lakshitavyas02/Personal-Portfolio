@@ -1,0 +1,67 @@
+{
+  "name": "Lakshita Vyas",
+  "education": [
+    {
+      "university": "JECRC University",
+      "course": "B.Tech in Computer Science Engineering (AI/ML Specialization)",
+      "cgpa": "8.7/10.0",
+      "year_of_graduation": "2025"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "SQL",
+      "Python",
+      "HTML",
+      "CSS",
+      "C++",
+      "JavaScript"
+    ],
+    "libraries_and_frameworks": [
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "core_concepts": [
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Database Management",
+      "Data Structures and Algorithms"
+    ],
+    "technical_expertise": [
+      "Data Analytics",
+      "Machine Learning",
+      "Data Visualization",
+      "Prompt Engineering"
+    ]
+  },
+  "experience": "No professional experience (Fresher)",
+  "projects": [
+    {
+      "title": "Student Exam Score Prediction",
+      "description": "A machine learning project predicting student exam scores using regression techniques, involving data preprocessing, feature selection, and model optimization."
+    },
+    {
+      "title": "Comprehensive Movie Data Analysis and Visualization",
+      "description": "Analyzed movie datasets to identify trends and revenue drivers using Python and visualization libraries like Matplotlib and Seaborn."
+    },
+    {
+      "title": "Visionary Infographica",
+      "description": "An interactive tool for data analysis and visualization, allowing users to explore datasets with filters and charts, developed with data manipulation, visualization, and UI design."
+    },
+    {
+      "title": "Advanced Calculator",
+      "description": "Developed a software application featuring advanced mathematical calculations and real-time graphing using Python, MySQL, and UI libraries."
+    },
+    {
+      "title": "Jarvis-AI Voice Assistant",
+      "description": "Built an AI-powered voice assistant for tasks like web searches and media playback using speech recognition, text-to-speech, and API integrations."
+    }
+  ],
+  "certifications": [
+    "Supervised Machine Learning: Regression and Classification (Coursera)",
+    "Artificial General Intelligence: An Introductory Course (Udemy)",
+    "Python for Data Science and Machine Learning (Udemy)"
+  ]
+}
